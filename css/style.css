@@ -81,7 +81,7 @@ body {
 
 .nuevo-mensaje div {
     display: inline;
-    float: left;
+    /* float: left; */
 }
 
 .div-img {
@@ -184,7 +184,7 @@ textarea {
     display: block;
     position: relative;
     padding-left: 20px;
-    vertical-align: top;
+    /* vertical-align: top; */
     display: inline-block;
 }
 
